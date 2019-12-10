@@ -17,7 +17,7 @@ const App = () => {
   const [loadingDashboard, setLoadingDashboard] = useState(false);
   const [loadingFooter, setLoadingFooter] = useState(false);
   const [coordinates, setCoordinates] = useState({});
-  const [address, setAddress] = useState('Rua florrrrr');
+  const [address, setAddress] = useState('');
   const [wheather, setWheather] = useState({});
 
   const requestWheather = async () => {
