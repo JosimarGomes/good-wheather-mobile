@@ -7,7 +7,8 @@ consultar os serviços de clima para exibir as informações climáticas da cida
 Em seguida, o app irá consultar as informações de endereço e vai exibir a localização
 atual do usuário no mapa.
 
-**Para a api de mapas do Google funcionar,  preciso configurar criar uma credencial e configurar a api key**
+Para a api de mapas do Google funcionar,  preciso configurar criar uma credencial e configurar a api key
+Já está configurado, mas se surgir alguma dúvida segue a documentação:
 https://developers.google.com/maps/documentation/android-sdk/get-api-key
 
 **RoadMap**
