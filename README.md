@@ -11,6 +11,8 @@ Para a api de mapas do Google funcionar,  preciso configurar criar uma credencia
 Já está configurado, mas se surgir alguma dúvida segue a documentação:
 https://developers.google.com/maps/documentation/android-sdk/get-api-key
 
+**Importante:** Testado apenas no android
+
 **RoadMap**
 
 Permitir que o usuário altere a localização escolhendo um ponto no mapa
